@@ -1,21 +1,13 @@
-  
-    Trado  : visit trado.ng
-    
-    create TRADO MASTERCARD .
-    Name,
-    Card Number
-    Exp. date
-    
-    create TRADO ID CARD
-        name,
-        Role,
-        iss. date
-        issue date
-    
-        React 
-        form validated using Javascript Regrex
+    Using
+        React, 
         build with webpack,
-        test with cypress,
+        test with cypress.
+        
+        
+        In Development validating is essential also it will be okay to validate user input immediately onChange event is fired   and to remove boilerplate code || nested if statement.
+        
+        view the Util package to check all the pattern used in validating user input.
+         
         
 
 
